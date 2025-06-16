@@ -1,4 +1,5 @@
 from openai import OpenAI
+# pip install openai
 
 client = OpenAI(
     api_key="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",
