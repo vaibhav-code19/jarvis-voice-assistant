@@ -7,7 +7,11 @@ from openai import OpenAI
 from dotenv import load_dotenv
 import os
 
-# pip install pocketsphinx
+# pip install pocketsphinx (optional or not needed if using recognize_google)
+# pip install requests
+# pip install openai
+# pip install dotenv
+
 
 # Initialize recognizer and TTS engine
 recognizer = sr.Recognizer()
