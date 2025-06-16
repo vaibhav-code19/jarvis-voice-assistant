@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 import os
 
 # pip install pocketsphinx (optional or not needed if using recognize_google)
-# pip install requests
+# pip install requests(usually already installed [built-in modules])
 # pip install openai
 # pip install dotenv
 
